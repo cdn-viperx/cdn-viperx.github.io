@@ -1,2 +1,5 @@
 theme: jekyll-theme-midnight
 permalink: data/getbootstrapdata
+permalink: data/getlauncherdata
+permalink: data/getloaderdata
+permalink: data/getscripthubdata
